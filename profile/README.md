@@ -15,3 +15,9 @@ Retrouver chaque soir les 3 tweets médias ayant été les plus relayés au cour
 [Suivre @revue_2_presse](https://twitter.com/revue_2_presse).
 
 Ce projet est porté par [@sylvaineg](https://github.com/sylvaineg) et [@thierrymarianne](https://github.com/thierrymarianne).
+
+Entre la naissance du projet en 2015 jusqu'en 2022,
+Revue de presse n'a reçu aucun financement extérieur.
+
+De manière à rendre le projet plus soutenable, 
+des contributions sont désormais ouvertes.
