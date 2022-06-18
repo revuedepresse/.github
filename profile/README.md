@@ -16,8 +16,12 @@ Retrouver chaque soir les 3 tweets médias ayant été les plus relayés au cour
 
 Ce projet est porté par [@sylvaineg](https://github.com/sylvaineg) et [@thierrymarianne](https://github.com/thierrymarianne).
 
-Entre la naissance du projet en 2015 jusqu'en 2022,
-Revue de presse n'a reçu aucun financement extérieur.
+Entre la naissance du projet en 2015 jusqu'en 2022,  
+Revue de presse n'a reçu aucun financement extérieur.  
 
-De manière à rendre le projet plus soutenable, 
-des contributions sont désormais ouvertes.
+De manière à rendre le projet plus soutenable avec des coûts de maintenance grandissant,   
+des pages de contribution ont été ouvertes :
+ - [buymeacoffee.com](https://www.buymeacoffee.com/thierrymarianne)
+ - [ko-fi](https://ko-fi.com/thierrymarianne)
+ - [liberapay](https://liberapay.com/thierrymarianne/)
+ - [github sponsors](https://github.com/sponsors/thierrymarianne)
