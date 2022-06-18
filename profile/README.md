@@ -1,10 +1,10 @@
 # Revue de Presse
 
-Revue de presse [revue-de-presse.org](https://revue-de-presse.org) est un projet citoyen indépendant qui s'adresse aux journalistes et   
-à toute personne s'intéressant à l'actualité et à l'influence des médias sur l'opinion.
+Revue de presse [revue-de-presse.org](https://revue-de-presse.org) est un projet citoyen indépendant qui s'adresse aux journalistes ✍🏼 et   
+à toute personne s'intéressant à l'actualité et à l'influence des médias 📰 sur l'opinion 🗣🧠.
 
 Revue de presse s'appuie sur l'API de Twitter ([revuedepresse/api.revue-de-presse.org](https://github.com/revuedepresse/api.revue-de-presse.org))  
-et met en perspective les publications des médias en fonction du succès  
+et met en perspective les publications des médias en fonction du succès 🤯
 que ces publications ont rencontré auprès du public. 
 
 Un classement s'appuyant sur les «retweets», 
