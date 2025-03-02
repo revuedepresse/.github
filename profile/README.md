@@ -8,9 +8,7 @@ et met en perspective les publications des médias en fonction du succès 🤯
 que ces publications ont rencontré auprès du public. 
 
 Un classement s'appuyant sur les «reposts», 
-offre chaque jour une visibilité sur 10 posts médias.
-
-Retrouver régulièrement les publications ayant été les plus relayées.
+offre une visibilité sur les publications ayant été les plus relayées.
 
 [Suivre @revue_2_presse](https://bsky.app/profile/revue-de-presse.bsky.social).
 
