@@ -7,8 +7,8 @@ Revue de presse s'appuie sur l'API de plateformes telles que Bluesky ([revuedepr
 et met en perspective les publications des médias en fonction du succès 🤯
 que ces publications ont rencontré auprès du public. 
 
-Un classement s'appuyant sur les «reposts», 
-offre une visibilité sur les publications ayant été les plus relayées.
+Un classement s'appuyant sur les «reposts» offre une visibilité 
+sur les publications ayant été les plus relayées.
 
 [Suivre @revue_2_presse](https://bsky.app/profile/revue-de-presse.bsky.social).
 
