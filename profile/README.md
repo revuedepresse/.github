@@ -14,7 +14,7 @@ sur les publications ayant été les plus relayées.
 
 Ce projet est porté par [@sylvaineg](https://github.com/sylvaineg) et [@thierrymarianne](https://github.com/thierrymarianne).
 
-Entre la naissance du projet en 2015 jusqu'en 2025,  
+Entre la naissance du projet en 2015 jusqu'en 2026,  
 Revue de presse n'a reçu aucun financement extérieur.  
 
 De manière à rendre le projet plus soutenable avec des coûts de maintenance fixes,   
